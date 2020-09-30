@@ -1,3 +1,4 @@
 # Sapper and TailwindCSS Boilerplate
 
-npm install
+To use run:
+'npm install'
